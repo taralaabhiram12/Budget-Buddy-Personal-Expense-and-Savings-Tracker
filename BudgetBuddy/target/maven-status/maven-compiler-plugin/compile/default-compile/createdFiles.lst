@@ -1,0 +1,9 @@
+com\budgetbuddy\model\Transaction.class
+com\budgetbuddy\dao\BudgetDAO.class
+com\budgetbuddy\Main.class
+com\budgetbuddy\model\SavingsGoal.class
+com\budgetbuddy\dao\SavingsGoalDAO.class
+com\budgetbuddy\util\DatabaseManager.class
+com\budgetbuddy\service\FinanceService.class
+com\budgetbuddy\controller\DashboardController.class
+com\budgetbuddy\dao\TransactionDAO.class
